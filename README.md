@@ -2,27 +2,7 @@
 
 ### AI Engineer | Backend Developer | LLM Applications
 
-I'm a Computer Science undergraduate at **The LNM Institute of Information Technology (LNMIIT)** with a strong interest in **Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Backend Development, and System Design.**
-
-Currently working as an **AI Engineer Intern at Auriga IT Consulting Pvt. Ltd.**, where I build AI-powered applications, MCP servers, semantic search systems, and agentic workflows.
-
----
-
-## 🚀 Experience
-
-### AI Engineer Intern
-**Auriga IT Consulting Pvt. Ltd.** *(June 2026 – Present)*
-
-Working on:
-
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔗 Model Context Protocol (MCP)
-- ⚡ LangChain & LangGraph
-- 📧 Gmail & Google Calendar Integrations
-- 📚 Semantic Search Systems
-- 🚀 FastAPI Backend Development
+I'm a Computer Science undergraduate at **The LNM Institute of Information Technology (LNMIIT)** with a strong interest in **Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP) and Backend Development.*
 
 ---
 
