@@ -73,18 +73,6 @@ Working on:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=namankhandelwal1607&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namankhandelwal1607&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect with Me
 
 <p align="left">
@@ -99,10 +87,6 @@ Working on:
 
 <a href="https://github.com/namankhandelwal1607">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge"/>
 </a>
 
 <a href="https://leetcode.com/u/naman7262/">
